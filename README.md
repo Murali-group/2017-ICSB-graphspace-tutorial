@@ -2,7 +2,7 @@
 
 ## Before the tutorial
 
-If you are planning to participate in the tutorial on "GraphSpace: Stimulating interdisciplinary collaborations in Network Biology" at ICSB 2017, here is some information you need to know.
+If you are planning to participate in the tutorial on "**GraphSpace: Stimulating interdisciplinary collaborations in Network Biology**" at ICSB 2017, here is some information you need to know.
 
 We will be leading the tutorial using the [Jupyter](http://jupyter.readthedocs.io/en/latest/install.html)/[IPython](https://ipython.org/install.html) notebook, and will provide a pre-written notebook to the attendees.
 
